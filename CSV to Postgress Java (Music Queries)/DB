@@ -1,0 +1,4 @@
+driver = org.postgresql.Driver
+URL = jdbc:postgresql://mod-fund-databases.cs.bham.ac.uk/agr799
+username = agr799
+password = qwerty2003
